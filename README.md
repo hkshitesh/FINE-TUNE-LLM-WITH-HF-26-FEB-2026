@@ -5,3 +5,7 @@ https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sh
 ## Lab Exercise 2: RAG Implementation Part-1
 
 https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
+
+## Lab Exercise 3- Understanding Transformers in LLMs
+
+https://colab.research.google.com/drive/1NDr4VjPLq3_w5HlxISvk-_Id0XLTsm5x?usp=sharing
